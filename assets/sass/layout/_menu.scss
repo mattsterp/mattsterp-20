@@ -125,3 +125,11 @@
 			}
 		}
 	}
+
+	// Hode Mobile nav on large screens 
+	//medium+ screen sizes
+@media (max-width:992px) {
+    .desktop-only {
+        display:none !important;
+    }
+}
